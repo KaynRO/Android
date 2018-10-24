@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="uploadservice-3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/ae1fcbd38aab08f91d7791cd14f8852ec869afd3/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ae1fcbd38aab08f91d7791cd14f8852ec869afd3/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice/3.0/61ea3910b03d28eac0966b5785df3a0a413d04ec/uploadservice-3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        card_view:cardCornerRadius="3dp"
+        android:layout_marginBottom="5dp"
+        card_view:cardElevation="1dp">
+
+        <LinearLayout
+            android:paddingLeft="8dp"
+            android:paddingTop="8dp"
+            android:paddingRight="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="10dp"
+            android:minHeight="50dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:background="#f9f9f9"
+                    >
+
+
+                <ImageView
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:id="@+id/postHeaderPicture"
+                    android:src="@mipmap/icon_teacher"
+                    />
+                </RelativeLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:paddingLeft="5dp"
+                    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <TextView
+        android:id="@+id/userName"
+        android:text="Catalin Bahrin "
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:layout_marginRight="5dp"
+        android:fontFamily="source-sans-light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="posted on"
+        android:textSize="10sp"
+        android:textColor="#aaaaaa"
+        android:layout_marginRight="5dp"
+        android:fontFamily="sans-serif-medium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/time"
+        android:text="01.04.2017 13:16"
+        android:textSize="12sp"
+        android:textColor="#444444"
+        android:layout_below="@+id/userName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="3dp"
+                        >
+                        <TextView
+                            android:text="about the course : "
+                            android:textSize="10sp"
+                            android:layout_marginRight="5dp"
+                            android:textColor="#aaaaaa"
+                            android:fontFamily="sans-serif-medium"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:id="@+id/courseName"
+                            android:text="INFO A"
+                            android:textColor="#000"
+                            android:textSize="15sp"
+                            android:layout_toRightOf="@+id/postadj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        </LinearLayout>
+
+
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#cccccc"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="5dp"
+                >
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/content"
+                android:text="Is someone coming tomorrow to class ?"
+                android:layout_below="@+id/time"
+                android:textSize="15sp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>

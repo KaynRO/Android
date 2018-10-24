@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_post"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.andrew.fiilife.PostActivity">
+
+    <android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/actionBar"
+        android:background="@color/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:title="" >
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/actionBar"
+            android:padding="0dp"
+            android:layout_gravity="left"
+            android:gravity="center_vertical"
+            android:id="@+id/back_button"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:adjustViewBounds="true"
+                android:layout_marginRight="10dp"
+                android:src="@mipmap/ic_arrow_back_white_36dp"
+                />
+        </RelativeLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create a new post"
+            android:textColor="#fff"
+            android:visibility="visible"
+            android:textSize="@dimen/actionBarTitle"
+            android:paddingLeft="0dp"
+            />
+
+    </android.support.v7.widget.Toolbar>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textSize="14sp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Course ID"
+        android:textColor="#000"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#eeeeee"
+        android:paddingTop="5dp"
+        android:textSize="16sp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:minHeight="45dp"
+        android:layout_margin="10dp"
+        android:id="@+id/post_course_text"
+        android:inputType="number"
+        android:hint="The ID of one of your courses "/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textSize="14sp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Content"
+        android:textColor="#000"
+        />
+    <EditText
+        android:id="@+id/activity_post_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#eeeeee"
+        android:paddingTop="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:minHeight="45dp"
+        android:textSize="16sp"
+        android:layout_margin="10dp"
+        android:hint="Write something here"/>
+
+    <Button
+        android:id="@+id/post_button"
+        android:text="Post"
+        android:background="@color/defaultColor"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#ffffff"
+        android:minWidth="200dp"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:paddingRight="20dp"
+        android:textColor="@color/inactiveTab"
+        android:textSize="15sp"
+        android:fontFamily="sans-serif-light"
+        android:text="sadasdasdasdsadas"
+        android:id="@+id/courseList" />
+
+
+</LinearLayout>
