@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\803fa978b1f370e3b9379bd7441c3b021e26e8a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35c3f96aeb4df48c43cb56f9b56cea57fcee9b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\da7a0faaaac9b25e9463753661ed4d5464c0b6b9\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_a3839283dd7306413ca0804032066cfafaad683c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53d9c6619a5846481bf5fd0f9577db205cb95621\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7a0e5514aebe2ccb809c286cf5817f1d4004eff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\3c9e41361c33923e5b2caac94f75cc1018a6f0c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1438a12cfc579216c81c7e3fb55ce39f7ca64cbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\23f3ed2b1f51d2679dff14981d9941f851e499bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8e5a9fac81f79680d6f3c7bf9899fcb640767c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\9d77fd8f1fb5fbf09ea891347d51a9ff7e621e95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75750095f47ec5ffc87cb1536e4d0d340dcfb7a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f7517c14094d8f43088275af15331fba2f682c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\da3cf855684f64b56f80ddf9e871219690e974de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8137a01facd27c0e518f2ff845700f6d334260d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\3830fe17c6d6ce51a4fb5d2d49db2aa7357e8d17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5a0e54f7fc9bafdbf2eef64bc6bee2d66e46447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\0db0af660385669ae948ec975426b9774314b2ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0fc636550c728ca581703cc0604746ba31b7771\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_28e649a613ead5e7f6a19f02c739043ff2927a65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\c632eb84a0bd7e6d9889c102df4734292b978fee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7489b219df09edd7122f6dc9f14d62ad61966c56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\277cbcc6f8d7d735f5dd761e307cfbbe9cb87ebe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f64b977fa377663727ab41eaf46859e73c8479f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\6564478818d036c6094821cc6166abbef81dbb27\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0562707bdcdabacba889931a7e8e6a60809a1f78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\3ed74f776259584f4bf98b95ec6c68aa2550b68c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de232870ae25a058aa92f6315eb38c68f2e2330e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\8904adee0331ba7cb9bb2439517d9671000e8d43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6a3cac771ac716ff9022d8cc6ef2b0e20e6cebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\48b4ebc25b4f1a309098bf4ce340f043fc0dafbc\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ca0725b89dc411ab749b680cbcc02005f6f719e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\99696eccc3d28079783d4c0e7323b6e4ed227029\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_28ef5422150e6a9dce199a4042e9ce956620f86c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\480ba1bc4f649b39ab8031d2b109cd3d17c3aae7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b99e881d30ec40783ec7802f7c405973e0ca5335\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\4a5eba240c59be943bffe8ffa984db48a37fa6f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5013899757b50019e73e70d57d51cc0499e44e96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\48b4ebc25b4f1a309098bf4ce340f043fc0dafbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6f9567e286297635a6eb496551765860d9e5b4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\b0836b2380c82b27f40a14557ba5800371a05d56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e01481801d86db88eee5f6e69538b5b3d7e594d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\9ecc0c15ab8194cd058d18132e2972d97f32be81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ff75b7eb5656d1aa3eaf0a1c49ae992c56fd742\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\5cb3c5357ef30f037289be85582eb8c5ba98e1b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40d394ee971fc872474fbca7dc412bf7a32b7c5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\99696eccc3d28079783d4c0e7323b6e4ed227029\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0842dbccf4efc8aeaf575b80727aa47874c9674c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\d6191401d89469748b9ca7b3d690993d0af9855d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5640136cf422060a7077e2c02d9a231d7c76f959">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_744e4cbc339be7d8c078fa991a79cd53f84146a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2af8157fc721c58534900ab398e72ff40106a797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\c38dffe6351988bd3438ff74ece08213869d7eca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c71d3612c768db9b6e737f9b8383f2da78eb3f51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\4533b4aa2376075b031cb449eef4efff7487c3af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b20a435799dc95337cdce3973c434615b97e0af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\215bd075d78a5de773671ec9a8389768105ddfa4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1122b93f06e273e99594b8fe1ea4176be4c5e216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_44e9fcb5893819a048cfb8cc44d35db6b6536775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_871d1ef8172b35969bc243a8fe1ebd2918e93c17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\27e3df39ad9c9ca5bd7d19049f83b1ae4c97e9d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cef74a8842c9c4ee4e9152521030c2efedb8e5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\62e4e37308bbef94cce59990ce17f3e5797e8391\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93078506543a95b8c5b36af74333fbe0aecfc1b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\1ec8ed6d6fb9a50d11c4528bb063f8acd3a9d321\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7597bc0c36fd00ac93469b43170fe6071349fd33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\0d26298f08dfab1948bde04aa78a25047cbd3bf8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7df51434050d428654a3d58bda790ecf343be51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb9ed54f962208df59ab14390e15c61895863b4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96e801f33622ca34e0518608aa8b9903384ba6da">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19232de9a8d856c9e686cf975d192a9f260f4a98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\53c752c0898677974202f44e771b069677cfbd59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2fea14f74091a8e6702f27d0db09a17615545471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\de435b409247a41bc9b4a89e9cc18771aa3afda3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dce23fc7f4f04247e11a905f6a4a22df36c84279\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\a64cb1aa87575cded540c6bf6415130e2a629b4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5eecc0b639b5ef5128579710d6f403fe28d00012\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\b908adf975bbdd933128dd64e6613846aa4ee23c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d2fe4e0ab807cac9a30170a0360205b90f75330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\3dbcaa4fcdfbf1f079b2a271076b48fbe7a8d3d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6436a0489190c16d4e5c32cfd789f03d3622b715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\512ae37e68da1c79612fef22a7b5890037e43232\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cefac331095d38f9eb2166e7f1f783c9487d5af1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\db726a7137dc7af16e5c47bd3a01a7f85f28caef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b44391ea37e7db8cc415731de81ced7d28d716ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\aa16d5971fd6b7b35937c32d31f932ae7dc41d58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68cf397566280d982580f93fef2fabb42f15ada3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\342827d8ca7454d88fb6cb4030e7792d39bd1e29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84c464820f7e96a5cb2c178659da82a4d6e38cf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\5084c1953e27479d617f4d954da80fc4e6a545b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c00e8a221099cc6f9c9a1005dc300a4341bc73c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85ae9573f6f0a08c965bec586f8708563207df0">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_39fbd6f7f081ec41f040876b25d4c3421a2dc4ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\6460f2f8672615b6e8ead55c07b0c9c360fbb4d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ab313f578bff87f13bb3d791643f902f4df572e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\647ec275d09baf9357b916b069bd65be8115b465\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fd5040ec83a5fe73010d787aff53d7122eef8eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\1392b2dacea0595b83e02983544f5cbe0d318ca3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55cb725fe0102d3168016c874a62272b44afefde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\8372828223fc60f4c32f68389ec1fc0a33c7622b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39555e50e91abbc3e58ec1630428f8d7f74ffa34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\542b1744a4f24f8e9200553221c274f77d93d03d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5a8d699f68446b529c827a872aa6449d39159bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\f3f6f9c23b23a9f118284c50acc550cc57681651\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2648ab7a1d0da62746b33dd1314d5cf67ddf3ab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc78e4ae9eea852125736cf6df1b67d26ea71839\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\8d3ab721f5d46e7fadbb9030571a7c380ab6bde6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_810704a8a872ada2ddd35b3db47114777e9aa304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\f1711a02c686c8b7f55d6d648ebece16e1ad8e92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a607293889ba0e8fbf85588b19b0429c02b571cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\ea2f23d40e5219acf2ea8701e0a23284453ce5f8\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_272f6c9099cba280b43a4b98fdf54076ee7a478c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\ea2f23d40e5219acf2ea8701e0a23284453ce5f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_804231236030abba30b4d9591a654ea62d5cc34a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\153cf4fd5591d2780846b4a02fbc5fa35d1d7734\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24f1b3ce968f3f9d9e87c8ca624dd0247bd8d1d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d59991d93f9b69d8a580f611f471088bf6ea96bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\a6d9203cf58a0eded3145dbe99dad4d131487314\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_639fff0dbd27537f227fd68193e5803a15b03eee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\8590176d93b04c5bb2d1934fd57f2ffb22958c42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e95ca0b2984b544d5d1159dfd30522044ad30a20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\62c44deb93e24a87528a039a7ea55a172a139101\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36f1496f533c51eddaadf89c7a716ba85ec544cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\b9a96fca24781820b7874cd029d1e72b5173d19b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e0736f88d481e17c0539a3d334532674ed086bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\2ff3aea47979671ddf7cb96f779b64b0990dadeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_032c2e547eaee234291ab68140f95ad0216e3db5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\3c9e41361c33923e5b2caac94f75cc1018a6f0c1\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9a701acb0310f8ef051fb23bbb32ebe44c788c95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\f999140349458a3ad8c83cf5a4bddeea56090fe4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86b9b7654c715b8ac3fe77562fc7d2d102459807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\1392b2dacea0595b83e02983544f5cbe0d318ca3\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4cf7811bdf99597502be11c8a72c03333c470d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\484f368585c9cc3afb7154f60d226b081efff53d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab3193b438e37f7b0a634cc2dfebbf92892ea90c">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_187b7b1806911f1187f950a22cd731df6c263e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\18636479dd88c576b25cc96539a057c2d35f8f3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcc7e7164269cfce9509f6d5adf6afa29b68e9e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\da7a0faaaac9b25e9463753661ed4d5464c0b6b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59a6090af61086b6c6cb840ee51c8f3002dcb788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_1bdf8af80226de6615bef078a440519799bd1512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\37cb416d847cfa981f9389ad1e69fc1a6735bd4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d62028a5e36be05ad803e6eb91af1909b51b609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Grigoras\.android\build-cache\b88a9cfaafbe3870e0702d5444a4363782ab72bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4ed65b16f3cd51f3e181fea8bcafd8a73448fa8\classes.dex" />
+    </item>
+
+</items>

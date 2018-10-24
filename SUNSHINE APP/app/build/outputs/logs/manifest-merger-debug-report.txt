@@ -1,0 +1,484 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\a64cb1aa87575cded540c6bf6415130e2a629b4c\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Grigoras\.android\build-cache\6460f2f8672615b6e8ead55c07b0c9c360fbb4d9\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Grigoras\.android\build-cache\b908adf975bbdd933128dd64e6613846aa4ee23c\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\f3f6f9c23b23a9f118284c50acc550cc57681651\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\3dbcaa4fcdfbf1f079b2a271076b48fbe7a8d3d0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\b9a96fca24781820b7874cd029d1e72b5173d19b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Grigoras\.android\build-cache\2ff3aea47979671ddf7cb96f779b64b0990dadeb\output\AndroidManifest.xml:20:5-66
+MERGED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:17:5-41:19
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\Grigoras\.android\build-cache\70e30a8cc1176b9d0129bbed9b87a3afd81fb0f8\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\a64cb1aa87575cded540c6bf6415130e2a629b4c\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\Grigoras\.android\build-cache\b88a9cfaafbe3870e0702d5444a4363782ab72bd\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Grigoras\.android\build-cache\da7a0faaaac9b25e9463753661ed4d5464c0b6b9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Grigoras\.android\build-cache\3ed74f776259584f4bf98b95ec6c68aa2550b68c\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Grigoras\.android\build-cache\da3cf855684f64b56f80ddf9e871219690e974de\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\Grigoras\.android\build-cache\9ecc0c15ab8194cd058d18132e2972d97f32be81\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\Grigoras\.android\build-cache\803fa978b1f370e3b9379bd7441c3b021e26e8a0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Grigoras\.android\build-cache\6460f2f8672615b6e8ead55c07b0c9c360fbb4d9\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\0db0af660385669ae948ec975426b9774314b2ee\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\Grigoras\.android\build-cache\277cbcc6f8d7d735f5dd761e307cfbbe9cb87ebe\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\Grigoras\.android\build-cache\f999140349458a3ad8c83cf5a4bddeea56090fe4\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\Grigoras\.android\build-cache\8590176d93b04c5bb2d1934fd57f2ffb22958c42\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Grigoras\.android\build-cache\647ec275d09baf9357b916b069bd65be8115b465\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Grigoras\.android\build-cache\b908adf975bbdd933128dd64e6613846aa4ee23c\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Grigoras\.android\build-cache\4a5eba240c59be943bffe8ffa984db48a37fa6f3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\f3f6f9c23b23a9f118284c50acc550cc57681651\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Grigoras\.android\build-cache\a6d9203cf58a0eded3145dbe99dad4d131487314\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Grigoras\.android\build-cache\5cb3c5357ef30f037289be85582eb8c5ba98e1b2\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\Grigoras\.android\build-cache\1ec8ed6d6fb9a50d11c4528bb063f8acd3a9d321\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Grigoras\.android\build-cache\62c44deb93e24a87528a039a7ea55a172a139101\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\Grigoras\.android\build-cache\b0836b2380c82b27f40a14557ba5800371a05d56\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\Grigoras\.android\build-cache\53c752c0898677974202f44e771b069677cfbd59\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\3dbcaa4fcdfbf1f079b2a271076b48fbe7a8d3d0\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Grigoras\.android\build-cache\f1711a02c686c8b7f55d6d648ebece16e1ad8e92\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\8904adee0331ba7cb9bb2439517d9671000e8d43\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\b9a96fca24781820b7874cd029d1e72b5173d19b\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\Grigoras\.android\build-cache\de435b409247a41bc9b4a89e9cc18771aa3afda3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\Grigoras\.android\build-cache\aa16d5971fd6b7b35937c32d31f932ae7dc41d58\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Grigoras\.android\build-cache\2ff3aea47979671ddf7cb96f779b64b0990dadeb\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Grigoras\.android\build-cache\db726a7137dc7af16e5c47bd3a01a7f85f28caef\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Grigoras\.android\build-cache\3830fe17c6d6ce51a4fb5d2d49db2aa7357e8d17\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Grigoras\.android\build-cache\542b1744a4f24f8e9200553221c274f77d93d03d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Grigoras\.android\build-cache\c632eb84a0bd7e6d9889c102df4734292b978fee\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.0.0] C:\Users\Grigoras\.android\build-cache\153cf4fd5591d2780846b4a02fbc5fa35d1d7734\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Grigoras\.android\build-cache\8d3ab721f5d46e7fadbb9030571a7c380ab6bde6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Grigoras\.android\build-cache\62e4e37308bbef94cce59990ce17f3e5797e8391\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Grigoras\.android\build-cache\6564478818d036c6094821cc6166abbef81dbb27\output\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.1] C:\Users\Grigoras\.android\build-cache\d6191401d89469748b9ca7b3d690993d0af9855d\output\AndroidManifest.xml:13:5-20
+MERGED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:15:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Grigoras\.android\build-cache\512ae37e68da1c79612fef22a7b5890037e43232\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Grigoras\.android\build-cache\0d26298f08dfab1948bde04aa78a25047cbd3bf8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Grigoras\.android\build-cache\48b4ebc25b4f1a309098bf4ce340f043fc0dafbc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Grigoras\.android\build-cache\99696eccc3d28079783d4c0e7323b6e4ed227029\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Grigoras\.android\build-cache\1392b2dacea0595b83e02983544f5cbe0d318ca3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Grigoras\.android\build-cache\3c9e41361c33923e5b2caac94f75cc1018a6f0c1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Grigoras\.android\build-cache\9d77fd8f1fb5fbf09ea891347d51a9ff7e621e95\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Grigoras\.android\build-cache\18636479dd88c576b25cc96539a057c2d35f8f3f\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Grigoras\.android\build-cache\ea2f23d40e5219acf2ea8701e0a23284453ce5f8\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.example.android.sunshine.app.MainActivity
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:24:13-59
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.android.sunshine.app.SettingsActivity
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:32:9-35:58
+	android:label
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:34:13-60
+	android:parentActivityName
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:35:13-55
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:33:13-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:37:9-39:55
+	android:value
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:39:13-52
+	android:name
+		ADDED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:38:13-58
+uses-sdk
+INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\Grigoras\.android\build-cache\70e30a8cc1176b9d0129bbed9b87a3afd81fb0f8\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\Grigoras\.android\build-cache\27e3df39ad9c9ca5bd7d19049f83b1ae4c97e9d9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\a64cb1aa87575cded540c6bf6415130e2a629b4c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\Grigoras\.android\build-cache\5084c1953e27479d617f4d954da80fc4e6a545b7\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\Grigoras\.android\build-cache\b88a9cfaafbe3870e0702d5444a4363782ab72bd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Grigoras\.android\build-cache\da7a0faaaac9b25e9463753661ed4d5464c0b6b9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Grigoras\.android\build-cache\3ed74f776259584f4bf98b95ec6c68aa2550b68c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Grigoras\.android\build-cache\da3cf855684f64b56f80ddf9e871219690e974de\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\Grigoras\.android\build-cache\9ecc0c15ab8194cd058d18132e2972d97f32be81\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\Grigoras\.android\build-cache\803fa978b1f370e3b9379bd7441c3b021e26e8a0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Grigoras\.android\build-cache\6460f2f8672615b6e8ead55c07b0c9c360fbb4d9\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\0db0af660385669ae948ec975426b9774314b2ee\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\Grigoras\.android\build-cache\215bd075d78a5de773671ec9a8389768105ddfa4\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\Grigoras\.android\build-cache\480ba1bc4f649b39ab8031d2b109cd3d17c3aae7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\Grigoras\.android\build-cache\37cb416d847cfa981f9389ad1e69fc1a6735bd4b\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\Grigoras\.android\build-cache\23f3ed2b1f51d2679dff14981d9941f851e499bc\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\Grigoras\.android\build-cache\277cbcc6f8d7d735f5dd761e307cfbbe9cb87ebe\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\Grigoras\.android\build-cache\f999140349458a3ad8c83cf5a4bddeea56090fe4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\Grigoras\.android\build-cache\8590176d93b04c5bb2d1934fd57f2ffb22958c42\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Grigoras\.android\build-cache\647ec275d09baf9357b916b069bd65be8115b465\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Grigoras\.android\build-cache\b908adf975bbdd933128dd64e6613846aa4ee23c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Grigoras\.android\build-cache\4a5eba240c59be943bffe8ffa984db48a37fa6f3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\f3f6f9c23b23a9f118284c50acc550cc57681651\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\Grigoras\.android\build-cache\c38dffe6351988bd3438ff74ece08213869d7eca\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Grigoras\.android\build-cache\a6d9203cf58a0eded3145dbe99dad4d131487314\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Grigoras\.android\build-cache\5cb3c5357ef30f037289be85582eb8c5ba98e1b2\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\Grigoras\.android\build-cache\1ec8ed6d6fb9a50d11c4528bb063f8acd3a9d321\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Grigoras\.android\build-cache\62c44deb93e24a87528a039a7ea55a172a139101\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\Grigoras\.android\build-cache\b0836b2380c82b27f40a14557ba5800371a05d56\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\Grigoras\.android\build-cache\53c752c0898677974202f44e771b069677cfbd59\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\Grigoras\.android\build-cache\342827d8ca7454d88fb6cb4030e7792d39bd1e29\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\3dbcaa4fcdfbf1f079b2a271076b48fbe7a8d3d0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Grigoras\.android\build-cache\f1711a02c686c8b7f55d6d648ebece16e1ad8e92\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\8904adee0331ba7cb9bb2439517d9671000e8d43\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\b9a96fca24781820b7874cd029d1e72b5173d19b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\Grigoras\.android\build-cache\de435b409247a41bc9b4a89e9cc18771aa3afda3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\Grigoras\.android\build-cache\4533b4aa2376075b031cb449eef4efff7487c3af\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\Grigoras\.android\build-cache\aa16d5971fd6b7b35937c32d31f932ae7dc41d58\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Grigoras\.android\build-cache\2ff3aea47979671ddf7cb96f779b64b0990dadeb\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Grigoras\.android\build-cache\db726a7137dc7af16e5c47bd3a01a7f85f28caef\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Grigoras\.android\build-cache\3830fe17c6d6ce51a4fb5d2d49db2aa7357e8d17\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Grigoras\.android\build-cache\542b1744a4f24f8e9200553221c274f77d93d03d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Grigoras\.android\build-cache\c632eb84a0bd7e6d9889c102df4734292b978fee\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:25.0.0] C:\Users\Grigoras\.android\build-cache\153cf4fd5591d2780846b4a02fbc5fa35d1d7734\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Grigoras\.android\build-cache\8d3ab721f5d46e7fadbb9030571a7c380ab6bde6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Grigoras\.android\build-cache\62e4e37308bbef94cce59990ce17f3e5797e8391\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Grigoras\.android\build-cache\6564478818d036c6094821cc6166abbef81dbb27\output\AndroidManifest.xml:7:5-43
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.1] C:\Users\Grigoras\.android\build-cache\d6191401d89469748b9ca7b3d690993d0af9855d\output\AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.6] C:\Users\Grigoras\.android\build-cache\484f368585c9cc3afb7154f60d226b081efff53d\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Grigoras\.android\build-cache\8372828223fc60f4c32f68389ec1fc0a33c7622b\output\AndroidManifest.xml:20:5-43
+MERGED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Grigoras\.android\build-cache\512ae37e68da1c79612fef22a7b5890037e43232\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Grigoras\.android\build-cache\0d26298f08dfab1948bde04aa78a25047cbd3bf8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Grigoras\.android\build-cache\48b4ebc25b4f1a309098bf4ce340f043fc0dafbc\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Grigoras\.android\build-cache\99696eccc3d28079783d4c0e7323b6e4ed227029\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Grigoras\.android\build-cache\1392b2dacea0595b83e02983544f5cbe0d318ca3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Grigoras\.android\build-cache\3c9e41361c33923e5b2caac94f75cc1018a6f0c1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Grigoras\.android\build-cache\9d77fd8f1fb5fbf09ea891347d51a9ff7e621e95\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Grigoras\.android\build-cache\18636479dd88c576b25cc96539a057c2d35f8f3f\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Grigoras\.android\build-cache\ea2f23d40e5219acf2ea8701e0a23284453ce5f8\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] C:\Users\Grigoras\.android\build-cache\153cf4fd5591d2780846b4a02fbc5fa35d1d7734\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\a64cb1aa87575cded540c6bf6415130e2a629b4c\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Grigoras\.android\build-cache\5cb3c5357ef30f037289be85582eb8c5ba98e1b2\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\3dbcaa4fcdfbf1f079b2a271076b48fbe7a8d3d0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\b9a96fca24781820b7874cd029d1e72b5173d19b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Grigoras\.android\build-cache\2ff3aea47979671ddf7cb96f779b64b0990dadeb\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Grigoras\.android\build-cache\ea21dba9ba09da6aea35ff738821b90ccc48d6db\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\a64cb1aa87575cded540c6bf6415130e2a629b4c\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\3dbcaa4fcdfbf1f079b2a271076b48fbe7a8d3d0\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\b9a96fca24781820b7874cd029d1e72b5173d19b\output\AndroidManifest.xml:24:5-67
+MERGED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\a64cb1aa87575cded540c6bf6415130e2a629b4c\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Grigoras\.android\build-cache\4e9b19ec0f78c24d43f1e07f7168d272bdd13974\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Grigoras\.android\build-cache\20d03b1bb594991309f6c5833bfc310119757e03\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Grigoras\.android\build-cache\0fe75c86d10825eac44b0eaaccf00a004e8f75ac\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Grigoras\.android\build-cache\8a30ac1e4875aad4df54eef4f5999d3b88d52655\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Grigoras\.android\build-cache\b908adf975bbdd933128dd64e6613846aa4ee23c\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\f3f6f9c23b23a9f118284c50acc550cc57681651\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Grigoras\.android\build-cache\b908adf975bbdd933128dd64e6613846aa4ee23c\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Grigoras\.android\build-cache\60ec4fe58f0f5f9a0fe5ac3cbc7ed7ae0b0240f1\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\3dbcaa4fcdfbf1f079b2a271076b48fbe7a8d3d0\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Grigoras\.android\build-cache\3dbcaa4fcdfbf1f079b2a271076b48fbe7a8d3d0\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Grigoras\.android\build-cache\e126f19d4d291f4993ab19202b1088b07cd1d994\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Grigoras\.android\build-cache\a4f3533708949b57a22a4b66d59503106512a584\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Grigoras\.android\build-cache\f1711a02c686c8b7f55d6d648ebece16e1ad8e92\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Grigoras\.android\build-cache\f1711a02c686c8b7f55d6d648ebece16e1ad8e92\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Grigoras\.android\build-cache\f1711a02c686c8b7f55d6d648ebece16e1ad8e92\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Grigoras\.android\build-cache\f1711a02c686c8b7f55d6d648ebece16e1ad8e92\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Grigoras\.android\build-cache\f1711a02c686c8b7f55d6d648ebece16e1ad8e92\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Grigoras\.android\build-cache\2ff3aea47979671ddf7cb96f779b64b0990dadeb\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Grigoras\.android\build-cache\2ff3aea47979671ddf7cb96f779b64b0990dadeb\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Grigoras\.android\build-cache\2ff3aea47979671ddf7cb96f779b64b0990dadeb\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Grigoras\.android\build-cache\3830fe17c6d6ce51a4fb5d2d49db2aa7357e8d17\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Grigoras\.android\build-cache\3830fe17c6d6ce51a4fb5d2d49db2aa7357e8d17\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Grigoras\.android\build-cache\3830fe17c6d6ce51a4fb5d2d49db2aa7357e8d17\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Grigoras\.android\build-cache\3830fe17c6d6ce51a4fb5d2d49db2aa7357e8d17\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Grigoras\.android\build-cache\c632eb84a0bd7e6d9889c102df4734292b978fee\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Grigoras\.android\build-cache\c632eb84a0bd7e6d9889c102df4734292b978fee\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Grigoras\.android\build-cache\c632eb84a0bd7e6d9889c102df4734292b978fee\output\AndroidManifest.xml:20:20-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:12:22-78
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:16:9-20:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:18:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [net.gotev:uploadservice:3.0] C:\Users\Grigoras\.android\build-cache\ae1fcbd38aab08f91d7791cd14f8852ec869afd3\output\AndroidManifest.xml:17:13-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Grigoras\Desktop\Work\Android\APPS\SUNSHINE APP\app\src\main\AndroidManifest.xml:2:1-43:12 reason: net.gotev.uploadservice requested WRITE_EXTERNAL_STORAGE
